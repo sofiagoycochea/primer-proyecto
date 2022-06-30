@@ -5,3 +5,7 @@
 **Daily Scrum Meeting**
 **Sprint Review Meeting**
 **Sprint Retrospective Meeting**
+##### ROLES SCRUM TEAM 
+**PRODUCT OWNER
+**SCRUM MASTER 
+**DEVELOPENT TEAM 
