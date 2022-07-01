@@ -8,4 +8,8 @@
 ##### ROLES SCRUM TEAM 
 **PRODUCT OWNER
 **SCRUM MASTER 
-**DEVELOPENT TEAM 
+**DEVELOPENT TEAM
+######  ARTEFACTOS **son todos los elementos que te garantizan la transparencia y el registro de la informaci fundamental del procesod de Scrum. Dicho de otra manera, son los recursos que  cimientan la productividad y la calidad de cualquier producto.**
+**Pila del produ--(Product backlog)**
+**Pila del sprint--(Sprint backlog)
+**Increment--(Incre)**
