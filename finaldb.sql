@@ -1,3 +1,5 @@
+Ejercicios 1 y 2
+
 CREATE DATABASE peluqueriaCanina;
 	
 USE peluqueriaCanina;
@@ -15,7 +17,7 @@ CREATE TABLE Perro(
     ID_perro INT NOT NULL AUTO_INCREMENT,
     Nombre VARCHAR(20) NOT NULL,
     Fecha_nacimiento DATE,
-    Sexo VARCHAR(1), -- F O M 
+    Sexo VARCHAR(1), -- masculino (m) o femenino (f)
     DNI_dueno INT,
     PRIMARY KEY (ID_perro),
     FOREIGN KEY (DNI_dueno) REFERENCES Dueno(DNI) 
